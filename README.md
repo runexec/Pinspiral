@@ -1,5 +1,3 @@
-#!/usr/bin/env ruby
-
 ### Pinspiral
 A bot for pinspire.com
 
